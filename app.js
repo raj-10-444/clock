@@ -12,7 +12,6 @@ function setClock() {
     setRotation(secHand, secRatio)
     setRotation(minHand, minRatio)
     setRotation(hourHand, hourRatio)
-   // console.log(secRatio, minRatio, hourRatio)
 }
 
 
